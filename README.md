@@ -9,4 +9,4 @@ Junior Back-End Developer from South Korea
 - **Build Tool** : `Gradle`
 - **Database** : `MySQL` `Redis`
 - **ORM** : `JPA` `MyBatis`
-- **Collaboration & Tools** : `Git` `Github` `Eclipse`
+- **Collaboration & Tools** : `Git` `Github`
